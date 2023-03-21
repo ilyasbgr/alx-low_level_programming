@@ -18,4 +18,10 @@
 	_putchar('r');
 	_putchar('\n');
 	return (0);
+	
 	}
+
+/**
+ * main - print _putchar, followed by new line
+ * Return: 0
+ */
