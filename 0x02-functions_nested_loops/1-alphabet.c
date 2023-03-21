@@ -17,7 +17,3 @@
 
 		_putchar('\n');
 	}
-
-/**
-	 * print_alphabet - print all alphabet in lowercase
-	 */
