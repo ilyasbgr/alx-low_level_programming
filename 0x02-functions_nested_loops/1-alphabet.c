@@ -18,6 +18,6 @@
 		_putchar('\n');
 	}
 /**
- * main - print _putchar, followed by new line
- * Return: 0
- */
+	 * print_alphabet - print all alphabet in lowercase
+	 */
+
